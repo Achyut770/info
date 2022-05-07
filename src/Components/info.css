@@ -1,34 +1,3 @@
-.Row {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    border: 4px solid green;
-    justify-content: space-between;
-}
-
-.Column img {
-    height: 40px;
-}
-
-.Column {
-    margin-top: 50px;
-    display: flex;
-    flex-direction: column;
-    gap: 10px
-}
-
-.Row button {
-    background: skyblue;
-    border: none;
-    border-radius: 10px;
-    height: 30px;
-}
-
-input {
-    height: 30px;
-    border-radius: 10px
-}
-
 .Card {
     padding: 10px;
     margin: auto;
